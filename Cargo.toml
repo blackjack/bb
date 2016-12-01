@@ -1,0 +1,6 @@
+[package]
+name = "bb"
+version = "0.1.0"
+authors = ["Oleksandr Senkovych <bjsenya@gmail.com>"]
+
+[dependencies]
